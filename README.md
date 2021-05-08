@@ -12,7 +12,7 @@
 
     所需收集的输入数据如图所示：
 
-    ![image-20210508165817606](C:\Users\10942\Desktop\输入参数统计.png)
+    ![image-20210508165817606](https://github.com/WhItEG-bit/Fagucity/blob/main/%E8%BE%93%E5%85%A5%E5%8F%82%E6%95%B0%E7%BB%9F%E8%AE%A1.png)
 
   - ### 输入参数
 
