@@ -12,7 +12,7 @@
 
     所需收集的输入数据如图所示：
 
-    ![image-20210508165817606](C:\Users\10942\AppData\Roaming\Typora\typora-user-images\image-20210508165817606.png)
+    ![image-20210508165817606](C:\Users\10942\Desktop\输入参数统计.png)
 
   - ### 输入参数
 
